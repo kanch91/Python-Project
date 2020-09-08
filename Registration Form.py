@@ -12,8 +12,6 @@ root.title("Registration Form")
 
 
 
-
-
 Fullname=StringVar()
 
 Email=StringVar()
